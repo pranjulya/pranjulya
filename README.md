@@ -18,18 +18,5 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![Prabajp's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabajp&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabajp&layout=compact&theme=tokyonight)
 
----
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=prabajp&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## ✨ Visitor Counter
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=prabajp)
