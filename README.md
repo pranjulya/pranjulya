@@ -36,4 +36,18 @@
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=pranjulya&label=Profile%20views&color=0e75b6&style=flat)
 
+---
+
+
+![GitHub Snake Light](https://github.com/prabajp/pranjulya/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/prabajp/pranjulya/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=pranjulya&label=Profile%20views&color=0e75b6&style=flat)
+
 
