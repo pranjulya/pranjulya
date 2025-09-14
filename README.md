@@ -21,19 +21,19 @@
 ---
 
 ## 📊 GitHub Stats
-![Prabajp's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabajp&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+![Pranjulya GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjulya&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabajp&layout=compact&theme=radical&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjulya&layout=compact&theme=radical&hide=css,html)
 
 ---
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=prabajp&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranjulya&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 
 ---
 
 ## 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=prabajp&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=pranjulya&label=Profile%20views&color=0e75b6&style=flat)
 
 
