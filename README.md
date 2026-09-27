@@ -21,9 +21,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Pranjulya GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjulya&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+![Pranjulya GitHub stats](https://github-stats-extended.vercel.app/api?username=pranjulya&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjulya&layout=compact&theme=radical&hide=css,html)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=pranjulya&layout=compact&theme=radical&hide=css,html)
 
 ---
 
