@@ -1,11 +1,23 @@
 # Hi there 👋, I'm Pranjulya
 
-🔭 I’m currently working on **FastAPI-based App that mines Reddit Discussions**  
-🌱 Learning more about **DevOps & Cloud (Docker, Generative AI, AWS, Python)**  
+**Senior Technical Lead (AI Engineering, RAG, Agentic Systems)**
+
+🔭 Currently building: cited RAG, eval-driven GenAI systems and agentic backends (FastAPI, Qdrant, OpenTelemetry)  
+🌱 Learning more about **eval-driven RAG, agent observability, and production GenAI (Docker, AWS, Python)**  
 👯 Looking to collaborate on **open-source Node.js / Generative AI / Python projects**  
 💬 Ask me about **JavaScript, APIs, Agentic Systems, or real-time apps**  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pranjulya-bajpai-a5146179)  
 ⚡ Fun fact: I can debug faster with coffee ☕
+
+---
+
+## Featured projects
+
+- [cited-RAG-Bot](https://github.com/pranjulya/cited-RAG-Bot) — PDF-only cited RAG: page-level citations, hybrid dense+sparse retrieval (Qdrant), FastAPI + Postgres + Redis worker
+- [automated-eval-harness](https://github.com/pranjulya/automated-eval-harness) — Provider-neutral GenAI evaluation harness: 50 golden cases, deterministic evaluators, immutable run bundles and regression gates
+- [h-i-t-l](https://github.com/pranjulya/h-i-t-l) — Human-in-the-loop AI Ops workflow: the LLM proposes, deterministic policy plus human approval gate execution, with a full audit trail
+- [traced-deployment-pipeline](https://github.com/pranjulya/traced-deployment-pipeline) — Single-host reference deployment of a bounded agent API with OpenTelemetry traces, Prometheus metrics, Grafana dashboards and alerts
+- [streaming-copilot-ui](https://github.com/pranjulya/streaming-copilot-ui) — Next.js + FastAPI chat copilot with typed NDJSON streaming, persistent history, and AbortController cancellation
 
 ---
 
@@ -37,5 +49,3 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=pranjulya&label=Profile%20views&color=0e75b6&style=flat)
-
-
